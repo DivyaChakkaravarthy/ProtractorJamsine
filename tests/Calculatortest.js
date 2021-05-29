@@ -17,7 +17,7 @@ describe ('Calculator test demo', function (){
         //element(by.css('[ng-click="doAddition()"]')).click();
         //let result = element(by.cssContainingText('.ng-binding','9')).getText();
         //expect(result).toEqual('9');
-        browser.sleep(2000);
+        browser.sleep(3000);
         
 
 
